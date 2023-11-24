@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/dukemarvel/frontend.git
+[submodule "fastServe"]
+	path = fastServe
+	url = https://github.com/Essien16/fastServe.git
